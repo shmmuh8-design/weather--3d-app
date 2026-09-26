@@ -1,8 +1,8 @@
 {
-  "time": "2026-09-26T12:00",
+  "time": "2026-09-26T12:15",
   "interval": 900,
-  "temperature_2m": 37.2,
-  "relative_humidity_2m": 43,
-  "wind_speed_10m": 14.6,
-  "wind_direction_10m": 356
+  "temperature_2m": 37,
+  "relative_humidity_2m": 45,
+  "wind_speed_10m": 14.8,
+  "wind_direction_10m": 1
 }
