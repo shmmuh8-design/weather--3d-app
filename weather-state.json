@@ -1,8 +1,8 @@
 {
-  "time": "2026-10-06T09:45",
+  "time": "2026-10-06T10:15",
   "interval": 900,
   "temperature_2m": 36.6,
-  "relative_humidity_2m": 31,
-  "wind_speed_10m": 8.7,
-  "wind_direction_10m": 315
+  "relative_humidity_2m": 34,
+  "wind_speed_10m": 10.2,
+  "wind_direction_10m": 330
 }
