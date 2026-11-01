@@ -1,8 +1,8 @@
 {
-  "time": "2026-11-01T19:00",
+  "time": "2026-11-01T23:30",
   "interval": 900,
-  "temperature_2m": 28.5,
-  "relative_humidity_2m": 73,
-  "wind_speed_10m": 3.8,
-  "wind_direction_10m": 85
+  "temperature_2m": 26.5,
+  "relative_humidity_2m": 53,
+  "wind_speed_10m": 1.4,
+  "wind_direction_10m": 203
 }
